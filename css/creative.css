@@ -189,6 +189,10 @@ header {
   .service-box p {
     margin-bottom: 0; }
 
+.contactform {
+  width: 600px;
+  height: 420px; }
+
 .portfolio-box {
   position: relative;
   display: block;
